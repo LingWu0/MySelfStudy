@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MySelfStudy.iml" filepath="$PROJECT_DIR$/MySelfStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customalertdialog/customalertdialog.iml" filepath="$PROJECT_DIR$/customalertdialog/customalertdialog.iml" />
     </modules>
   </component>
 </project>
